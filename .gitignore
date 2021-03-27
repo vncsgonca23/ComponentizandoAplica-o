@@ -1,1 +1,8 @@
 node_modules
+dist
+.yarn/cache
+.yarn/unplugged
+.yarn/*.yml
+.yarn/*.gz
+.pnp.js
+yarn.lock
